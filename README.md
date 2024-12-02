@@ -1,6 +1,6 @@
 #Песня _Zachem - 5sta Family_
 <p align="center">
-  <img width="400" height="250" src="https://i.scdn.co/image/ab67616d0000b273338ee9156ffa6d300a19ebfc">
+  <img width="640" height="640" src="https://i.scdn.co/image/ab67616d0000b273338ee9156ffa6d300a19ebfc">
 </p>
 # 1 куплет
 В её глазах закат сиял
