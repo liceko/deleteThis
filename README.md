@@ -1,6 +1,6 @@
 #Песня _Zachem - 5sta Family_
 <p align="center">
-  <img width="400" height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2F5sta-family-what-for-lyrics&psig=AOvVaw0cQC2KjImj2baENU5UtTWD&ust=1733196867825000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiGns-TiIoDFQAAAAAdAAAAABAE">
+  <img width="400" height="250" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2F5sta-family-what-for-lyrics&psig=AOvVaw0cQC2KjImj2baENU5UtTWD&ust=1733196867825000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiGns-TiIoDFQAAAAAdAAAAABA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFLxcrL78JeJGESklIuKW9YupfGXTPmOBqg&s)">
 </p>
 # 1 куплет
 В её глазах закат сиял
